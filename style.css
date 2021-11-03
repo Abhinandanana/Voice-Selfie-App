@@ -1,0 +1,19 @@
+#start_key{
+    width: 80px;
+}
+#app_logo{
+    width: 100px;
+    height: 100px;
+}
+#voice_output{
+    width: 300px;
+}
+#press{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#cam, #selfie_display{
+    width: 350px;
+    height:300px;
+    border: 1px solid grey;
+}
